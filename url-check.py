@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 # Change URL variable to one you want to check
-url = "https://data-warehouse.zone"
+url = "https://domain.tld"
 
 while True:
     # There needs to be created url-check.log text file in same folder
